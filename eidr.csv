@@ -1,0 +1,11 @@
+EIDR ID,Title,Type,Release Date,Country,Language,Status,Parent ID,Director,Distributor
+10.5240/ABCD-1234-5678-9XYZ,"The Great Escape",Movie,1963-06-20,USA,English,Released,N/A,John Sturges,United Artists
+10.5240/WXYZ-2345-6789-0ABC,"Breaking News Tonight",TV Episode,2023-08-01,USA,English,Released,10.5240/WXYZ-2345-6789-0XYZ,Jane Doe,ABC Network
+10.5240/EFGH-3456-7890-1DEF,"Into the Wild",Movie,2007-09-21,USA,English,Released,N/A,Sean Penn,Paramount Vantage
+10.5240/LMNO-4567-8901-2GHI,"The Tech Talk",TV Series,2022-01-10,UK,English,Released,N/A,Sarah Johnson,BBC
+10.5240/QRST-5678-9012-3JKL,"The Tech Talk: AI Ep1",TV Episode,2022-01-17,UK,English,Released,10.5240/LMNO-4567-8901-2GHI,Sarah Johnson,BBC
+10.5240/UVWX-6789-0123-4MNO,"The Lost City",Movie,2022-03-25,USA,English,Released,N/A,Aaron Nee,Paramount Pictures
+10.5240/YZAB-7890-1234-5PQR,"Nature's Fury",Documentary,2015-04-15,Canada,English,Released,N/A,Mary Thompson,National Geographic
+10.5240/CDEF-8901-2345-6STU,"Quick Recipes: Pasta",Web Series,2021-09-05,Italy,Italian,Released,N/A,Giorgio Romano,YouTube
+10.5240/GHIJ-9012-3456-7VWX,"Superhero Saga",Movie,2020-07-10,USA,English,Released,N/A,Sam Jenkins,Warner Bros.
+10.5240/KLMN-0123-4567-8YZA,"Midnight Thrill",Movie,1999-11-19,France,French,Released,N/A,Luc Besson,Gaumont
